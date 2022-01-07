@@ -1,2 +1,3 @@
 # metamask-tutorials
-Code for all Metamask tutorials 
+
+Code for all Metamask tutorials
